@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+- #### Name: Satyabrata
+ - Place: Odisha, India
+ - Bio: Computer Science Student
+ - GitHub: [SweetToothPlays]https://github.com/SweetToothPlays
